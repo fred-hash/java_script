@@ -1,2 +1,3 @@
-# java_script
-A repository for my JS projects.
+**Java Script Projects**
+
+This is a repository containing some of my current java script projects and ideas.
